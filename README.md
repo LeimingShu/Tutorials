@@ -1,3 +1,3 @@
-# Tutorials
+# CUDA教程
 
-Some basic programming tutorials
+基本 CUDA 编程教程
